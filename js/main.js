@@ -7,34 +7,34 @@ document.addEventListener("click", function() {
     let num = Math.random() * 42;
     num = Math.ceil(num);
     if (num == '1') {
-        alert('1');
+        alert('Киев');
     }
     else if (num == '2') {
-        alert('2');
+        alert('Харьков');
     }
     else if (num == '3') {
-        alert('3');
+        alert('Одесса');
     }
     else if (num == '4') {
-        alert('4');
+        alert('Днепр');
     }
     else if (num == '5') {
-        alert('5');
+        alert('Донецк');
     }
     else if (num == '6') {
-        alert('	6');
+        alert('	Запорожье');
     }
     else if (num == '7') {
-        alert('	7');
+        alert('	Львов');
     }
     else if (num == '8') {
-        alert('8 Рог');
+        alert('Кривой Рог');
     }
     else if (num == '9') {
-        alert('9');
+        alert('Николаев');
     }
     else if (num == '10') {
-        alert('10');
+        alert('Севастополь');
     } 
     else if (num == '11') {
         alert('	Мариуполь');
